@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author thila
+ *
+ */
+module SimpleProject {
+}
